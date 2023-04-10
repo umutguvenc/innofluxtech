@@ -1,0 +1,141 @@
+body {
+/*    font-family: var(--whyte);*/
+    font-weight: normal;
+    font-style: normal;
+    color: var(--text-color);
+    font-size: 18px;
+    line-height: 32px;
+    overflow-x: hidden;
+    background: #000;
+}
+
+
+.wpml-ls-legacy-list-horizontal a{
+    color: #ffffff;
+}
+
+.img-holder-box1 {
+    position: absolute;
+    left: -200px;
+    top: -30px;
+    right: inherit;
+}
+
+.img-holder-box1 img,
+.img-holder-box2  img{
+    transform: scaleX(-1);
+}
+
+.img-holder-box2 {
+    position: absolute;
+    right: 0px;
+    bottom: -150px;
+    left: inherit;
+}
+
+.service-digixt .text h3.title{
+    width: 75%;
+}
+
+.tab-content{
+    padding-right: 70px;
+    padding-left: 0px;
+    padding-right: 0px;
+}
+
+.tab-pane h2 {
+    color: #FF9E00;
+}
+
+.service-tab .text h3.title{
+    width: 100%;
+    font-size: 24px;
+}
+
+
+.tab-pane ul{
+    padding-right: 25px;
+}
+
+.saal_carousel__news2 .slick-list {
+/*    padding: 0 0 0 20% !important;*/
+}
+
+.digixt-inner-content{
+/*    padding-right: 70px;
+    padding-left: 0px;*/
+}
+
+.digixt-inner-content ul{
+    padding-right: 20px;
+}
+
+
+.ai-inner-page-boxes .vc_row{
+    display: flex;
+}
+
+.digixt-innerdesc ul{
+    padding-right: 20px !important;
+}
+
+.ai-inner-page h2{
+    text-align: right !important;
+}
+
+.footer-widget .widget.newsletter-widget .newsletter-content form .form_control, 
+.footer-widget .widget.newsletter-widget .newsletter-content form .main-btn, 
+div.wpforms-container .wpforms-form .choices__list--single .choices__item, 
+div.wpforms-container-full .wpforms-form input[type=date], 
+div.wpforms-container-full .wpforms-form input[type=datetime], 
+div.wpforms-container-full .wpforms-form input[type=datetime-local], 
+div.wpforms-container-full .wpforms-form input[type=email], 
+div.wpforms-container-full .wpforms-form input[type=month], 
+div.wpforms-container-full .wpforms-form input[type=number], 
+div.wpforms-container-full .wpforms-form input[type=password], 
+div.wpforms-container-full .wpforms-form input[type=range], 
+div.wpforms-container-full .wpforms-form input[type=search], 
+div.wpforms-container-full .wpforms-form input[type=tel], 
+div.wpforms-container-full .wpforms-form input[type=text], 
+div.wpforms-container-full .wpforms-form input[type=time], 
+div.wpforms-container-full .wpforms-form input[type=url], 
+div.wpforms-container-full .wpforms-form input[type=week], 
+div.wpforms-container-full .wpforms-form select, 
+div.wpforms-container-full .wpforms-form textarea{
+/*    font-family: var(--whyte) !important;*/
+    text-align: right;
+}
+
+
+.nav-item--two{
+    right: 20px;
+}
+
+.nav-item--three{
+    right: 20px;
+}
+
+    .digixt-home-block h4 {
+        padding-right: 20px;
+        padding-left: 20px;
+        padding-right: 0px;
+    }
+
+
+    .digixt-tab-arrow{
+        position: absolute;
+        left: 0px;
+        right: inherit;
+        top: 0px;
+        display: flex;
+        flex-direction: row-reverse;
+    }
+
+.img-holder-box3 {
+    position: absolute;
+    top: 14px;
+    right: inherit;
+    /* left: 230px; */
+    left: -200px;
+    top: -30px;
+}

@@ -1,0 +1,110 @@
+@media (max-width:991px) and (min-width:768px) {
+    .tab-content{
+        padding-right: 0px;
+    }
+
+    .digixt-tab-arrow{
+        display: none;
+    }
+
+    .service-tab .text h3.title{
+        font-size: 18px;
+    }
+
+    #serviceTab li{
+        right: 0px !important;
+    }
+
+    .digixt-arch-content{
+        padding-right: 15px;
+        padding-left: 15px;
+        text-align: right;
+    }
+
+    .saal_carousel__news2 .slick-list{
+        padding: 0px !important;
+    }
+
+    .ai-inner-page-boxes .vc_row{
+        text-align: right;
+    }
+
+    .ai-inner-page p{
+        padding-left: 20px;
+        padding-right: 0px !important;
+    }
+
+        .section-title__digixt h2{
+        text-align: right;
+    }
+
+    .digixt-innerdesc{
+        text-align: right;
+    }
+
+
+ }
+
+@media(max-width:767px) {
+
+.saal_carousel__news2 .slick-list{
+    padding: 0px !important;
+    margin: 0px !important;
+}
+
+.footer-widget .col-lg-3{
+    right: 0px !important;
+}
+
+.digixt-inner-content{
+    padding-right: 15px;
+    padding-left: 15px;
+}
+
+#menu-menu-1-arabic{
+    left: 0px;
+}
+
+.nav-menu .nav-search .form_group .search-btn{
+    left: 0px;
+    right: inherit;
+}
+
+.header-navigation .main-menu ul li .sub-menu{
+    left: 0px;
+    right: 0px;
+}
+
+.wpml-ls-legacy-list-horizontal{
+    padding-left: 0px !important;
+}
+
+.digixt-home-block h4{
+    padding: 0px;
+}
+
+.digixt-tab-arrow{
+    display: none;
+}
+
+#serviceTab li{
+    right: 0px !important;
+}
+
+.service-tab .text h3.title{
+    font-size: 16px;
+}
+
+.tab-content{
+    padding-right: 0px;
+}
+
+.ai-inner-page-boxes .vc_row{
+    flex-direction: column;
+}
+
+.saal-inner__page h2.vc_custom_heading{
+    font-size: 48px !important;
+}
+
+}

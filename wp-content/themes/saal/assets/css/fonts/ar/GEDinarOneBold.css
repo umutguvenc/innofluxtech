@@ -1,0 +1,19 @@
+@font-face {
+    font-family: 'GEDinarOneBold';
+    src: url('fonts/GEDinarOneBold.eot');
+    src: url('fonts/GEDinarOneBold.eot') format('embedded-opentype'),
+         url('fonts/GEDinarOneBold.woff2') format('woff2'),
+         url('fonts/GEDinarOneBold.woff') format('woff'),
+         url('fonts/GEDinarOneBold.ttf') format('truetype'),
+         url('fonts/GEDinarOneBold.svg') format('svg');
+}
+
+@font-face {
+    font-family: 'GEDinarOneRegular';
+    src: url('fonts/GEDinarOneRegular.eot');
+    src: url('fonts/GEDinarOneRegular.eot') format('embedded-opentype'),
+         url('fonts/GEDinarOneRegular.woff2') format('woff2'),
+         url('fonts/GEDinarOneRegular.woff') format('woff'),
+         url('fonts/GEDinarOneRegular.ttf') format('truetype'),
+         url('fonts/GEDinarOneRegular.svg') format('svg');
+}
